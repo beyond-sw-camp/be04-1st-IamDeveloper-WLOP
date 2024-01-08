@@ -26,6 +26,9 @@
 
 **2. 요구사항 명세서**
 
+![요구사항 명세서](https://github.com/dongh810/Beyond_SW_Camp_Study/assets/105986200/1da4106f-bd5e-4c63-a4d2-1849846c5678)
+
+
 **3. 프로젝트 설계**
 
 **4. 프로젝트 구현**
