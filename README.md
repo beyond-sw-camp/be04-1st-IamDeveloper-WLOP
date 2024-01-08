@@ -46,9 +46,13 @@
   # 테스트 진행 영상 첨부
 </details>
   
-
 <details>
   <summary><b>6. 테스트케이스 정의서</b></summary>
   <img src="https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/71023617/45d1389e-baf9-48e6-b68d-937f8bc52a6b" alt="테스트케이스 이미지">
+</details>
+
+<details>
+  <summary><b>7. WBS</b></summary>
+![image](https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/71023617/11d611b6-4781-48cd-9105-0ea8c5f89eda)
 </details>
 
