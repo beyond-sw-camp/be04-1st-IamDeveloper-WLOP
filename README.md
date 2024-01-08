@@ -26,8 +26,10 @@
 
 **2. 요구사항 명세서**
 
-![요구사항 명세서](https://github.com/dongh810/Beyond_SW_Camp_Study/assets/105986200/1da4106f-bd5e-4c63-a4d2-1849846c5678)
-
+<details>
+  <summary>요구사항 명세서</summary>
+  <img src="https://github.com/dongh810/Beyond_SW_Camp_Study/assets/105986200/1da4106f-bd5e-4c63-a4d2-1849846c5678" alt="요구사항 명세서 이미지">
+</details>
 
 **3. 프로젝트 설계**
 
@@ -36,3 +38,9 @@
 **5. 테스트 진행**
 
 **6. 테스트케이스 정의서**
+
+<details>
+  <summary>테스트케이스 정의서</summary>
+  <img src="https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/71023617/45d1389e-baf9-48e6-b68d-937f8bc52a6b" alt="테스트케이스 이미지">
+</details>
+
