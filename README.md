@@ -24,10 +24,8 @@
   우리의 서비스를 통해 많은 반려인들이 하나되고, 즐거운 시간을 보내며 크게는 반려동물에 대한 인식이 좋아짐에 따라
   더 많은 장소를 우리의 반려동물들과 함께 할 수 있는 사회를 만드는데 기여하고자 한다.
 
-**2. 요구사항 명세서**
-
 <details>
-  <summary>요구사항 명세서</summary>
+  <summary><b>2. 요구사항 명세서</b>b></summary>
   <img src="https://github.com/dongh810/Beyond_SW_Camp_Study/assets/105986200/1da4106f-bd5e-4c63-a4d2-1849846c5678" alt="요구사항 명세서 이미지">
 </details>
 
@@ -37,10 +35,8 @@
 
 **5. 테스트 진행**
 
-**6. 테스트케이스 정의서**
-
 <details>
-  <summary>테스트케이스 정의서</summary>
+  <summary><b>6. 테스트케이스 정의서</b></summary>
   <img src="https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/71023617/45d1389e-baf9-48e6-b68d-937f8bc52a6b" alt="테스트케이스 이미지">
 </details>
 
