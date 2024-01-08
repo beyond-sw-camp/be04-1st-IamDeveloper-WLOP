@@ -3,7 +3,8 @@
 
 ![WLOP LOGO](https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/71023617/3d064349-0410-4504-b1cc-0c0855986f81)
 
-**1. 프로젝트 개요**
+<details>
+  <summary><b>1. 프로젝트 개요</b></summary>
 
 ![image](https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/71023617/1b14eb7e-4587-4c7d-a44d-259119c3bb79)
 
@@ -23,6 +24,7 @@
 
   우리의 서비스를 통해 많은 반려인들이 하나되고, 즐거운 시간을 보내며 크게는 반려동물에 대한 인식이 좋아짐에 따라
   더 많은 장소를 우리의 반려동물들과 함께 할 수 있는 사회를 만드는데 기여하고자 한다.
+  </details>
 
 <details>
   <summary><b>2. 요구사항 명세서</b></summary>
