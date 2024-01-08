@@ -25,7 +25,7 @@
   더 많은 장소를 우리의 반려동물들과 함께 할 수 있는 사회를 만드는데 기여하고자 한다.
 
 <details>
-  <summary><b>2. 요구사항 명세서</b>b></summary>
+  <summary><b>2. 요구사항 명세서</b></summary>
   <img src="https://github.com/dongh810/Beyond_SW_Camp_Study/assets/105986200/1da4106f-bd5e-4c63-a4d2-1849846c5678" alt="요구사항 명세서 이미지">
 </details>
 
