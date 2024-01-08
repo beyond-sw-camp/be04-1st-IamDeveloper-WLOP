@@ -24,7 +24,7 @@
      제공하고, 함께 리뷰와 댓글도 남기며 같은 반려인들 끼리 정보도 나누고 무료로 물품도 나눌  수 있는 기능을 제공한다.
      - 우리의 서비스를 통해 많은 반려인들이 하나되고, 즐거운 시간을 보내며 크게는 반려동물에 대한 인식이 좋아짐에 따라
      더 많은 장소를 우리의 반려동물들과 함께 할 수 있는 사회를 만드는데 기여하고자 한다.
-----------------------------------------------------------------    
+----------------------------------------------------------------   
 # 2. 업무 흐름도
 <img src="https://github.com/Bodrami/SWcamp_BORA/assets/149561287/11d7752c-df69-418b-8705-628bee1cedc3" alt="업무흐름도" width="900" height="600"/>
 
@@ -167,13 +167,12 @@
 # 4. 프로젝트 모델링
   ## 프로젝트 설계 내역
 <details>
-  <summary>ERD(개념논리모델)</summary>
-<img src="https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/85f03e9a-f583-4cf3-813b-1a4f6bc4805b" alt="개념논리 모델" width="900" height="400"/>
+  <summary>4-1. 개념논리모델</summary>
+<img src="" alt="개념논리 모델" width="900" height="400"/>
 </details>
 
-  ## 프로젝트 구현 내역
 <details>
-  <summary>바커표기법(물리모델)</summary>
+  <summary>4-2. 물리모델</summary>
 <img src="https://github.com/Bodrami/SWcamp_BORA/assets/149561287/40e16618-8f71-4669-accf-0c720a625277" alt="개념논리모델" width="900" height="400"/>
 </details>
 
@@ -182,23 +181,44 @@
 <details> 
   <summary>테스트 진행 영상 첨부</summary>
    <li> 회원가입
+       
+https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/54c707aa-d780-47ac-8ed1-5f0884b5e148
+
    <li> 로그인
+       
+https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/81a66551-73c3-46ae-b3d2-ea696421eca4
+
    <li> 마이페이지 탈퇴
+       
+https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/9eb80734-2b24-496e-90e5-e59f82e41b5d
+
    <li> 마이페이지 회원정보수정
-   <li> 마이페이지 작성게시물조회
-   <li> 마이페이지 작성댓글 조회
-   <li> 자유게시판 게시물 게시
-   <li> 자유게시판 게시물 수정
-   <li> 자유게시판 게시물 삭제
+       
+https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/cb62ebe4-0f8d-41be-872c-e94cc090815a
+   
+   <li> 마이페이지 작성게시물, 작성댓글 조회
+       
+https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/18032300-bad7-4630-93db-b8b51d87ea86
+
+   <li> 자유게시판 게시물 게시, 수정, 삭제
+       
+https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/5655c7a8-fd93-4920-8f66-5f721f15570e
+
    <li> 자유게시판 게시물 추천(동일 게시물 추천X)
    <li> 자유게시판 게시물 검색
    <li> 추천 게시물추천
    <li> 추천 리뷰추천 (중복추천 불가)
    <li> 소개게시판 소개글 내림차순 정렬
    <li> 리뷰게시글 추천수 정렬
+       
+https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/12ec7876-7412-438e-84bb-b6338519111c
+
    <li> 관리자페이지 신고게시물 처리
    <li> 관리자페이지 블랙라스트 처리
    <li> 관리자페이지 (등급)자동등업
+       
+https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/3236a82d-6bcd-49cc-ab41-9b89a8c1a8b9
+
 </details> 
   
 <details>
@@ -259,4 +279,9 @@
     - 이드보라:
     - 윤재은:
     - 조수빈:
+
+
+    
+
+
     
