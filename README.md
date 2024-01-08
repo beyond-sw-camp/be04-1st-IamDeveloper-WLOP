@@ -166,12 +166,20 @@
 ---------------------------
 # 4. 프로젝트 모델링
   ## 프로젝트 설계 내역
+<details>
+  <summary>바커표기법(물리모델)</summary>
+<img src="" width="900" height="400"/>
+</details>
 
   ## 프로젝트 구현 내역
-  
+<details>
+  <summary></summary>
+<img src="https://github.com/Bodrami/SWcamp_BORA/assets/149561287/40e16618-8f71-4669-accf-0c720a625277" alt="개념논리모델" width="900" height="400"/>
+</details>
+
 -----------------------------
 # 5. 테스트 진행
-  ## 테스트 진행 영상 첨부
+  ## 테스트 진행 영상 첨부 
 
   ## 테스트케이스 정의서
   <img src="https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/71023617/45d1389e-baf9-48e6-b68d-937f8bc52a6b" alt="테스트케이스 이미지" width="900" height="400"/>
