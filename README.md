@@ -31,11 +31,21 @@
   <img src="https://github.com/dongh810/Beyond_SW_Camp_Study/assets/105986200/1da4106f-bd5e-4c63-a4d2-1849846c5678" alt="요구사항 명세서 이미지">
 </details>
 
-**3. 프로젝트 설계**
+<details>
+  <summary><b>3. 프로젝트 설계</b></summary>
+  # 프로젝트 설계 내역
+</details>
 
-**4. 프로젝트 구현**
+<details>
+  <summary><b>4. 프로젝트 구현</b></summary>
+  # 프로젝트 구현 내역
+</details>
 
-**5. 테스트 진행**
+<details>
+  <summary><b>5. 테스트 진행</b></summary>
+  # 테스트 진행 영상 첨부
+</details>
+  
 
 <details>
   <summary><b>6. 테스트케이스 정의서</b></summary>
