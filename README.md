@@ -27,7 +27,7 @@
 **2. 요구사항 명세서**
 
 <details>
-  <summary>요구사항 명세서</summary>
+  <summary>**2. 요구사항 명세서**</summary>
   <img src="https://github.com/dongh810/Beyond_SW_Camp_Study/assets/105986200/1da4106f-bd5e-4c63-a4d2-1849846c5678" alt="요구사항 명세서 이미지">
 </details>
 
