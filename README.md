@@ -52,7 +52,12 @@
 </details>
 
 <details>
-  <summary><b>7. WBS</b></summary>
+  <summary><b>7. 시스템 아키텍처</b></summary>
+  
+</details>
+
+<details>
+  <summary><b>8. WBS</b></summary>
   
 ![WBS](https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/71023617/f30549aa-b5cb-4875-8106-a3c999af8f50)
 </details>
