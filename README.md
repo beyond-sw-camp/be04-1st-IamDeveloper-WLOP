@@ -1,4 +1,5 @@
 # be04-1st-IamDeveloper-WLOP
+## Team Members
 김재현, 백동현, 서승엽, 이드보라, 윤재은, 조수빈
 
 ![WLOP LOGO](https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/71023617/3d064349-0410-4504-b1cc-0c0855986f81)
@@ -160,7 +161,7 @@
 
   
   ## 요구사항 명세서
-  <img src="https://github.com/dongh810/Beyond_SW_Camp_Study/assets/105986200/1da4106f-bd5e-4c63-a4d2-1849846c5678" alt="요구사항 명세서 이미지" width="900" height="600"/>
+  <img src="https://github.com/dongh810/Beyond_SW_Camp_Study/assets/105986200/1da4106f-bd5e-4c63-a4d2-1849846c5678" alt="요구사항 명세서 이미지" width="900" height="400"/>
   
 ---------------------------
 # 4. 프로젝트 모델링
@@ -173,7 +174,7 @@
   ## 테스트 진행 영상 첨부
 
   ## 테스트케이스 정의서
-  <img src="https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/71023617/45d1389e-baf9-48e6-b68d-937f8bc52a6b" alt="테스트케이스 이미지" width="900" height="600"/>
+  <img src="https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/71023617/45d1389e-baf9-48e6-b68d-937f8bc52a6b" alt="테스트케이스 이미지" width="900" height="400"/>
 
 ----------------------------
 # 6. 시스템 아키텍처
