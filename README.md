@@ -53,6 +53,6 @@
 
 <details>
   <summary><b>7. WBS</b></summary>
-![image](https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/71023617/11d611b6-4781-48cd-9105-0ea8c5f89eda)
-</details>
+  (https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/71023617/b4e92d22-2e91-4190-89a1-914801dfcb77)
+</details>![WBS]
 
