@@ -167,17 +167,17 @@
 # 4. 프로젝트 모델링
   ## 📍 프로젝트 설계 내역
 <details>
-  <summary>4-1. 개념모델</summary>
+  <summary>개념모델</summary>
 <img src="" alt="개념논리 모델" width="900" height="400"/>
 </details>
 
 <details>
-  <summary>4-2. 논리모델</summary>
+  <summary>논리모델</summary>
 <img src="" alt="개념논리 모델" width="900" height="400"/>
 </details>
 
 <details>
-  <summary>4-3. 물리모델</summary>
+  <summary>물리모델</summary>
 <img src="https://github.com/Bodrami/SWcamp_BORA/assets/149561287/40e16618-8f71-4669-accf-0c720a625277" alt="개념논리모델" width="900" height="400"/>
 </details>
 
@@ -185,7 +185,7 @@
 ----------------------------
 # 5. DDL 구문 & 서버 구축(시스템 아키텍처)
 <details>
-  <summary>5-1. DDL 구문</summary>
+  <summary>DDL 구문</summary>
 
 ```java
 CREATE TABLE `WLOP_Member` (
@@ -655,7 +655,7 @@ REFERENCES `WLOP_Profile`(
 </details>
 
 <details>
-  <summary>5-2. DML 구문</summary>
+  <summary>DML 구문</summary>
 
 ```java
 INSERT
@@ -909,14 +909,14 @@ INSERT INTO Photo VALUES
 
 
 <details>
-  <summary>5-3. 시스템 아키텍처</summary>
+  <summary>시스템 아키텍처</summary>
 <img src="https://github.com/Bodrami/SWcamp_BORA/assets/149561287/4ee64be1-d5ec-49eb-859d-25d7b4ed988f" alt="시스템 아키텍처" width="900" height="600"/>
     
 </details>   
 
 
 <details>
-  <summary>5-4. 리눅스 데이터베이스 생성 및 연동 확인</summary>
+  <summary>리눅스 데이터베이스 생성 및 연동 확인</summary>
 <li> 리눅스 데이터 베이스 생성
 
 https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/4f9cb1be-8b1d-4b17-a840-959f918978ba
