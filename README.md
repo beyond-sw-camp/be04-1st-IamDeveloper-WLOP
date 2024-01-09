@@ -1108,18 +1108,14 @@ https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/32
 <details>
   <summary>테스트케이스 정의서</summary>
   <img src="https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/71023617/45d1389e-baf9-48e6-b68d-937f8bc52a6b" alt="테스트케이스 이미지" width="900" height="400"/>
-</details> 
-
-----------------------------
-# 7. 시스템 아키텍처
-<img src="https://github.com/Bodrami/SWcamp_BORA/assets/149561287/4ee64be1-d5ec-49eb-859d-25d7b4ed988f" alt="시스템 아키텍처" width="900" height="600"/>
+</details>
 
 ---------------------------
-# 8. WBS  
+# 7. WBS  
 <img src="https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/71023617/f30549aa-b5cb-4875-8106-a3c999af8f50" alt="WBS" width="900" height="600"/>
 
 ---------------------------
-# 9. 회의록 및 개인 회고
+# 8. 회의록 및 개인 회고
 ## 💡 주제선정 및 필요한 테이블 의견 모으기(23/12/29)
 
 <img src="https://github.com/Bodrami/SWcamp_BORA/assets/149561287/d7a13d5e-f167-4ac3-a67e-67e8634e6efd" alt="회의사진" width="300" height="300"/>
