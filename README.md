@@ -165,10 +165,11 @@
   
 ---------------------------
 # 4. 프로젝트 모델링
+
   ## 📍 프로젝트 설계 내역
 <details>
   <summary>개념모델</summary>
-<img src="" alt="" width="900" height="400"/>
+<img src="https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/0e31542f-3873-4f6e-a929-3e30d67228b8" alt="" width="900" height="400"/>
 </details>
 
 <details>
