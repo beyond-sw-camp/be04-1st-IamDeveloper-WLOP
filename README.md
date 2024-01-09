@@ -1069,6 +1069,10 @@ https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/18
        
 https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/5655c7a8-fd93-4920-8f66-5f721f15570e
 
+   <li> 자유게시판 검색(INDEX 활용)
+
+https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/5bc201a6-70e5-4f12-b529-d7f9403bff22
+
    <li> 자유게시판 타인 게시물 조회
 
 https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/5d132bab-f402-42f7-91f7-bd6bd57240d
