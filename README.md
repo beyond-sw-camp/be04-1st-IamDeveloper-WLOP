@@ -1042,7 +1042,7 @@ https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/bb
 </details>
 
 -----------------------------
-# 5. 테스트 진행
+# 6. 테스트 진행
 <details> 
   <summary>테스트 진행 영상 첨부</summary>
    <li> 회원가입
@@ -1109,15 +1109,15 @@ https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/32
 </details> 
 
 ----------------------------
-# 6. 시스템 아키텍처
+# 7. 시스템 아키텍처
 <img src="https://github.com/Bodrami/SWcamp_BORA/assets/149561287/4ee64be1-d5ec-49eb-859d-25d7b4ed988f" alt="시스템 아키텍처" width="900" height="600"/>
 
 ---------------------------
-# 7. WBS  
+# 8. WBS  
 <img src="https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/71023617/f30549aa-b5cb-4875-8106-a3c999af8f50" alt="WBS" width="900" height="600"/>
 
 ---------------------------
-# 8. 회의록 및 개인 회고
+# 9. 회의록 및 개인 회고
 ## 💡 주제선정 및 필요한 테이블 의견 모으기(23/12/29)
 
 <img src="https://github.com/Bodrami/SWcamp_BORA/assets/149561287/d7a13d5e-f167-4ac3-a67e-67e8634e6efd" alt="회의사진" width="300" height="300"/>
