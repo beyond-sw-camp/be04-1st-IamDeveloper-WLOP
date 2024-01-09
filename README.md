@@ -173,12 +173,12 @@
 
 <details>
   <summary>논리모델</summary>
-<img src="https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/18d21398-ca56-441b-82fb-14e0e4f390a0"  alt="논리모델" width="900" height="400"/>
+<img src=""  alt="논리모델" width="900" height="400"/>
 </details>
 
 <details>
   <summary>물리모델</summary>
-<img src="https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/5c0f46f6-5d69-44d8-a279-2f1364d3a5ac" alt="물리모델" width="900" height="400"/>
+<img src="https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/18d21398-ca56-441b-82fb-14e0e4f390a0" alt="물리모델" width="900" height="400"/>
 </details>
 
 
