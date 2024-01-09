@@ -1075,7 +1075,7 @@ https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/5b
 
    <li> 자유게시판 타인 게시물 조회
 
-https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/5d132bab-f402-42f7-91f7-bd6bd57240d
+https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/6b7f654f-2b0a-454e-920e-5bb289918c8e
 
    <li> 추천 누적 및 중복추천 불가(게시판, 리뷰)
 	   
