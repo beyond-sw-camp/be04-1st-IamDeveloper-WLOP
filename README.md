@@ -168,7 +168,7 @@
   ## 📍 프로젝트 설계 내역
 <details>
   <summary>개념모델</summary>
-<img src="" alt="개념논리 모델" width="900" height="400"/>
+<img src="" alt="" width="900" height="400"/>
 </details>
 
 <details>
