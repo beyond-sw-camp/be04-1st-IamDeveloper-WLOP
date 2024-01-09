@@ -1069,20 +1069,21 @@ https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/18
        
 https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/5655c7a8-fd93-4920-8f66-5f721f15570e
 
-   <li> 자유게시판 게시물 추천(동일 게시물 추천X)
+   <li> 자유게시판 타인 게시물 조회
 
- 
-   <li> 자유게시판 게시물 검색
+https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/5d132bab-f402-42f7-91f7-bd6bd57240d
 
-   <li> 추천 게시물추천
-   <li> 추천 리뷰추천 (중복추천 불가)
+   <li> 추천 누적 및 중복추천 불가(게시판, 리뷰)
 	   
 https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/fec39911-23d5-4dc6-8206-a176dbea58f8
     
    <li> 소개게시판 소개글 내림차순 정렬
-   <li> 리뷰게시글 추천수 정렬
-       
+
 https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/12ec7876-7412-438e-84bb-b6338519111c
+
+   <li> 소개게시판 게시물 검색
+
+https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/3cedc400-9839-4e40-b74f-f9455d70f9d2
 
    <li> 관리자페이지 신고게시물 처리
 
