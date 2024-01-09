@@ -668,7 +668,118 @@ https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/bb
 
 <li> 서버 구축 사용 설명서
 
+    master server IP = 172.30.1.58
+    slave server IP = 172.30.1.55
+    #mariadb가 이용하는 3306포트를 허용해주고 방화벽 설정
+    # - master
+    sudo ufw allow 3306
+    sudo ufw enable
+    # - slave
+    sudo ufw allow 3307
+    sudo ufw enable
+
+    #mariadb 접속
+    sudo mariadb -u root -r
+
+    #master서버에서 slave서버의 replication 접속 권한 부여
+    GRANT REPLICATION SLAVE ON *.* TO 'slave'@'%' IDENTIFIED BY 'slave';
+
+    #master 유저 생성 및 권한 부여
+
+    CREATE USER 'master'@'%' IDENTIFIED BY 'master';
+    GRANT ALL PRIVILEGES ON *.* TO 'master'@'%' IDENTIFIED BY 'master';
+
+    #마스터 서버 mariadb의 50-server.cnf 파일에서 마스터서버의 정보 입력
+    sudo vi /etc/mysql/mariadb.conf.d/50-server.cnf
+    -------------------------------------------------------------------------
+    server-id = 1
+    log_bin = /var/log/mysql/mysql-bin.log
+    expire _logs_days = 10
+    max_binlig_size = 100M
+    -------------------------------------------------------------------------
+
+
+    #입력이 끝나면 mariadb를 재시작
+    sudo systemctl restart mariadb
+
+    #슬레이브 서버 mariadb의 50-server.cnf파일 에서 슬레이브서버의 정보 입력
+    sudo vi /etc/mysql/mariadb.conf.d/50-server.cnf
+
+    port = 3307 (외부 접속 시 master와 slave를 구분하기 위해 포트를 다르게 설정)
+    -------------------------------------------------------------------------
+    server-id = 2
+    relay_log = mysql-relay-bin
+    log_slave_updates = 1
+    read_only = 1
+    -------------------------------------------------------------------------
+
+
+    #입력이 끝나면 mariadb를 재시작
+    sudo systemctl restart mariadb
+
+    #마스터서버에서  mysql-bin파일명과 position 확인
+    show master status;
+    +------------------+----------+--------------+------------------+
+    | File             | Position | Binlog_Do_DB | Binlog_Ignore_DB |
+    +------------------+----------+--------------+------------------+
+    | mysql-bin.000002 |      658 |              |                  |
+    +------------------+----------+--------------+------------------+
+    #슬레이브서버에서 마스터 서버와 연동하기위해 먼저 슬레이브를 정지시킴
+    stop slave;
+
+    #슬레이브서버에서 마스터서버에 대한 정보 기입
+    change master to 
+    master_host='172.30.1.58',
+    master_port=3306, 
+    master_user='master', 
+    master_password='master',
+    master_log_file='mysql-bin.000002', 
+    master_log_pos=658;
+
+    #정보가 들어갔으면 슬레이브를 다시 작동시켜줌
+    start slave;
+
+    #슬레이브가 마스터서버와 제대로 연동이 되었는지 확인
+    show slave status;
+    MariaDB [(none)]> show slave status \G;
+    *************************** 1. row ***************************
+    Slave_IO_State : Waiting for master to send event
+    Master_Host : 172.30.1.58
+    Master_User : replication
+    Master_Port : 3306
+    Connect_Retry : 60
+    Master_Log_File : mysql-bin.000002
+    Read_Master_Log_Pos : 658
+    Relay_Log_File : mysql-relay-bin.000002
+    Relay_Log_Pos : 871
+    Relay_Master_Log_File : mysql-bin.000002
+    Slave_IO_Running : Yes 
+    Slave_SQL_Running : Yes --Slave_IO_Running, Slave_SQL_Running 부분이 YES이면 정상적으로 작동
+
+
+    #위 코드를 전부 실행 하였을 시 master서버에서 생성된 데이터가 slave에 나타나는지 확인
+
+
+    #마스터서버와 슬레이브서버가 연동 된 것을 확인하고나면, 외부에서의 원격접속을 위한 작업을 진행
+
+
+
+    #원격접속할 서버에서 공유기 설정으로 들어가 공인IP주소 확인(네이버에서도 확인가능)
+
+
+
+    #공유기의 포트포워딩 설정에 들어가 마스터 서버의 접속 포트와 ip를 추가
+    #추가적으로 슬레이브 서버도 접속할 수 있게 설정을 추가해준다.
+
+
+    #마스터와 슬레이브가 같은 포트번호로 포트포워딩이 되어있을경우 선택하여 접속을 할 수 없기 때문에 슬레이브의 포트는 3307로 하여 3306으로 접속하면 master의 ip로
+    3307로 접속하면 slave의 ip로 접속 할 수 있게 해줌
+    #*외부에서 공인IP주소로 접속할때 포트에 연결된 내부 IP로 연결을 해줌
+
+    #해당 설정이 끝나면 외부 네트워크에서 공인ip를 이용해 서버에 접속이 가능해진다
     
+
+   
 </details>
 
 -----------------------------
