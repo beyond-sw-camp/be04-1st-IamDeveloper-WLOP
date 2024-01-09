@@ -285,7 +285,7 @@ CREATE TABLE `WLOP_Profile` (
 CREATE TABLE `Blacklist` (
    `black_id`   varchar(255)   NOT NULL PRIMARY KEY,
    `black_reason`   varchar(255)   NOT NULL,
-   `black_ candidate`   varchar(255)   NULL
+   `black_candidate`   varchar(255)   NULL
 );
 
 CREATE TABLE `Report_Type` (
