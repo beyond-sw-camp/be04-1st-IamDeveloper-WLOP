@@ -173,16 +173,16 @@
 
 <details>
   <summary>논리모델</summary>
-<img src=""  alt="논리모델" width="900" height="400"/>
+<img src="https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/85e8a703-27c3-42c6-8710-2b3397b3ff7e"  alt="논리모델" width="900" height="400"/>
 </details>
 
 <details>
   <summary>물리모델</summary>
-<img src="https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/18d21398-ca56-441b-82fb-14e0e4f390a0" alt="물리모델" width="900" height="400"/>
+<img src="https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/bf2edae6-1030-4060-9349-f15ef80ce9c3" alt="물리모델" width="900" height="400"/>
 </details>
 
 
-----------------------------
+--------------------------------------------------
 # 5. DDL 구문 & 서버 구축(시스템 아키텍처)
 <details>
   <summary>DDL 구문</summary>
