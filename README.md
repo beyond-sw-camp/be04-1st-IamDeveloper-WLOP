@@ -1070,15 +1070,15 @@ https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/18
        
 https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/5655c7a8-fd93-4920-8f66-5f721f15570e
 
-   <li> 자유게시판 검색(INDEX 활용)
+   <li> 자유게시판 검색 (INDEX 활용)
 
 https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/5bc201a6-70e5-4f12-b529-d7f9403bff22
 
-   <li> 자유게시판 타인 게시물 조회
+   <li> 자유게시판 타인 게시물 조회 (VIEW 활용)
 
 https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/6b7f654f-2b0a-454e-920e-5bb289918c8e
 
-   <li> 추천 누적 및 중복추천 불가(게시판, 리뷰)
+   <li> 추천 누적 및 중복추천 불가 (게시판, 리뷰/ TRIGGER 활용)
 	   
 https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/fec39911-23d5-4dc6-8206-a176dbea58f8
     
@@ -1094,11 +1094,11 @@ https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/3c
 
 https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/37f2226f-9404-4c1a-9160-28cc8e89f1b8
 
-   <li> 관리자페이지 블랙리스트 처리(신고 5회 누적시)
+   <li> 관리자페이지 블랙리스트 처리(신고 5회 누적시, TRIGGER 활용)
 
 https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/0b996f6a-a077-42cf-8e3b-6a8f4a4bac9b
     
-   <li> 관리자페이지 (등급)자동등업
+   <li> 관리자페이지 (등급)자동등업 (TRIGGER 활용)
        
 https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/3236a82d-6bcd-49cc-ab41-9b89a8c1a8b9
 
