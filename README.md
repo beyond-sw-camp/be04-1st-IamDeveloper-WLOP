@@ -1,6 +1,6 @@
 # [ be04-1st-IamDeveloper-WLOP ]
 ## 👀 Team I am 개발자에5
-## 🫂 Team Members 김재현, [백동현](https://github.com/dongh810), 서승엽, 이드보라, [윤재은](https://github.com/yunjaeeun), [조수빈](https://github.com/chosoobin37)
+## 🫂 Team Members [김재현](https://github.com/jaehyeon-SMU), [백동현](https://github.com/dongh810), [서승엽](https://github.com/axe_hand), 이드보라, [윤재은](https://github.com/yunjaeeun), [조수빈](https://github.com/chosoobin37)
 
 ![WLOP LOGO](https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/71023617/3d064349-0410-4504-b1cc-0c0855986f81)
 
