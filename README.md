@@ -161,7 +161,7 @@
 
   
   ## 📍 요구사항 명세서
-  <img src="https://github.com/dongh810/Beyond_SW_Camp_Study/assets/105986200/1da4106f-bd5e-4c63-a4d2-1849846c5678" alt="요구사항 명세서 이미지" width="900" height="400"/>
+  <img src="https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/42834f6d-47c7-4b40-bb5e-5dee222809a0" alt="요구사항 명세서 이미지" width="900" height="400"/>
   
 ---------------------------
 # 4. 프로젝트 모델링
