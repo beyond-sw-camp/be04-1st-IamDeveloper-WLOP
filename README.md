@@ -1107,12 +1107,12 @@ https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/32
   
 <details>
   <summary>테스트케이스 정의서</summary>
-  <img src="https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/71023617/45d1389e-baf9-48e6-b68d-937f8bc52a6b" alt="테스트케이스 이미지" width="900" height="400"/>
+  <img src="https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/63ddfaa1-4917-4eed-a51d-9ed67ed60b30" alt="테스트케이스 이미지" width="900" height="400"/>
 </details>
 
 ---------------------------
 # 7. WBS  
-<img src="https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/71023617/f30549aa-b5cb-4875-8106-a3c999af8f50" alt="WBS" width="900" height="600"/>
+<img src="https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/0d485076-8cc1-4d39-8c6f-3245a535f65c" alt="WBS" width="900" height="600"/>
 
 ---------------------------
 # 8. 회의록 및 개인 회고
